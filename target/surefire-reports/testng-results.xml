@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.amazon.qa.testcases.LoginPageTest" duration-ms="18484" started-at="2021-04-20T23:19:26 IST" finished-at="2021-04-20T23:19:44 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="18484" started-at="2021-04-20T23:19:26 IST" finished-at="2021-04-20T23:19:44 IST">
+      <class name="com.amazon.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="setUp" is-config="true" duration-ms="6914" started-at="2021-04-20T23:19:26 IST" finished-at="2021-04-20T23:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitle()[pri:1, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="verifyLoginPageTitle" duration-ms="116" started-at="2021-04-20T23:19:33 IST" finished-at="2021-04-20T23:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="tearDown" is-config="true" duration-ms="335" started-at="2021-04-20T23:19:33 IST" finished-at="2021-04-20T23:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="setUp" is-config="true" duration-ms="6440" started-at="2021-04-20T23:19:33 IST" finished-at="2021-04-20T23:19:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="loginTest" duration-ms="4448" started-at="2021-04-20T23:19:40 IST" finished-at="2021-04-20T23:19:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@42dafa95]" name="tearDown" is-config="true" duration-ms="173" started-at="2021-04-20T23:19:44 IST" finished-at="2021-04-20T23:19:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.amazon.qa.testcases.LoginPageTest -->
+</testng-results>
